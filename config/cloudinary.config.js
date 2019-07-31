@@ -1,0 +1,7 @@
+const CLOUDINARY_CREDENTIALS={
+    CNAME:"hftzhatr4",
+    API_KEY:"498382269929551",
+    API_SECRET:"OnN7GP2DLrnveFalQpzsraQSpys"
+};
+
+module.exports = CLOUDINARY_CREDENTIALS;
